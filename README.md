@@ -1,7 +1,7 @@
 # Threads clone app using MERN stack
 
 # Features:
-\
+
 * Tech stack: MERN + Socket.io + Chakra UI
 *  Authentication & Authorization with JWT
 * Create, Delete, Like/Unlike, Comment to a Post
